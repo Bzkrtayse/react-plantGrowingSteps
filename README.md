@@ -4,6 +4,8 @@
 
 This React application provides a step-by-step guide on how to grow a plant. It walks users through three main stages: planting, watering, and caring for the plant. Users can navigate through these steps using "Previous" and "Next" buttons.
 
+![react-growplant](https://github.com/user-attachments/assets/df3ab847-5fe1-431c-9a2d-2a7148d5d9b9)
+
 ## Features
 
 - **Step Navigation:** Users can navigate between steps to view detailed instructions.
